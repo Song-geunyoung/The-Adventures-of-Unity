@@ -1,0 +1,44 @@
+Initialize engine version: 5.6.2f1 (a2913c821e27)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: AMD Radeon(TM) Graphics (ID=0x1636)
+    Vendor:   ATI
+    VRAM:     2294 MB
+    Driver:   30.0.13044.3001
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Song\Desktop\The Adventures of UnityChan\Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Song\Desktop\The Adventures of UnityChan\Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Song\Desktop\The Adventures of UnityChan\Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Song\Desktop\The Adventures of UnityChan\Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Song\Desktop\The Adventures of UnityChan\Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\Song\Desktop\The Adventures of UnityChan\Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: C:\Users\Song\Desktop\The Adventures of UnityChan\Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Song\Desktop\The Adventures of UnityChan\Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Song\Desktop\The Adventures of UnityChan\Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Song\Desktop\The Adventures of UnityChan\Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Song\Desktop\The Adventures of UnityChan\Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\Song\Desktop\The Adventures of UnityChan\Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.026 seconds
+Platform assembly: C:\Users\Song\Desktop\The Adventures of UnityChan\Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Song\Desktop\The Adventures of UnityChan\Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.886700 ms
+Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
+ 
+(Filename:  Line: 371)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 10.294100 ms
+
+Unloading 150 unused Assets to reduce memory usage. Loaded Objects now: 10792.
+Total: 8.765900 ms (FindLiveObjects: 0.764500 ms CreateObjectMapping: 0.281400 ms MarkObjects: 1.148300 ms  DeleteObjects: 6.569900 ms)
+
+Setting up 4 worker threads for Enlighten.
+  Thread -> id: a6c -> priority: 1 
+  Thread -> id: 181c -> priority: 1 
+  Thread -> id: 1064 -> priority: 1 
+  Thread -> id: b9c -> priority: 1 
