@@ -1,2 +1,2 @@
-# 2017_The-Adventures-of-Unity
-2017_The Adventures of UnityChan
+#The-Adventures-of-Unity
+The Adventures of UnityChan
